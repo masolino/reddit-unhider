@@ -18,4 +18,4 @@ Or install it directly:
 
 Run this from the RedditUnhider directory in the terminal:
 
-    rake USERNAME='your_username' PASSWORD='your_password'
+    rake USERNAME='your_reddit_username' PASSWORD='your_reddit_password'
