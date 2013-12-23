@@ -8,7 +8,7 @@ class RedditUnhider
       puts "Unhide: #{ content.title }"
     end
 
-    message = contents.any? ? %(Unhided #{ contents.count } post.) : "No hidden posts found."
+    message = contents.any? ? %(Unhided #{ contents.count } posts.) : "No hidden posts found."
     puts message
   end
 
