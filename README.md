@@ -4,7 +4,7 @@ RedditUnhider unhide all hidden posts on your Reddit account.
 
 ## Install
 
-RedditUnhider use [RedditKit.rb](https://github.com/samsymons/RedditKit.rb) for [Reddit API](http://www.reddit.com/dev/api)
+RedditUnhider use [RedditKit.rb](https://github.com/samsymons/RedditKit.rb) to interact with [Reddit API](http://www.reddit.com/dev/api)
 
 Run this from the RedditUnhider directory in the terminal:
 
@@ -14,7 +14,7 @@ Or install it directly:
 
     gem install redditkit
 
-## Usage
+## Use
 
 Run this from the RedditUnhider directory in the terminal:
 
